@@ -1,0 +1,9 @@
+{
+  "prefix" : ".",
+  "db": "mongodb+srv://superstore:superstore@ss1.3wo34.mongodb.net/myFirstDatabase?retryWrites=true&w=majority",
+  "color": "BLUE",
+    "error": "RED",
+    "success": "GREEN"
+
+  
+  }
